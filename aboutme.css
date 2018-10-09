@@ -1,10 +1,28 @@
  h1 {
-  color: pink;
+  color: #9966ff;
+  border-style: double;
+  border-width: 5px;
 }
-div {
+#likes {
   font-family: monospace;
 }
- div {
+#aboutme {
+  font-family: monospace;
+}
+ #list {
   font-family: monospace;
   font-size: ;
+}
+#dislikes{
+  font-family: monospace;
+}
+#list2{
+  font-family: monospace;
+}
+#links{
+  font-family: monospace;
+}
+#photo{
+  width: 60px
+  height: 60px
 }
