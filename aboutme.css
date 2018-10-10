@@ -5,6 +5,7 @@
 }
 #likes {
   font-family: monospace;
+  font-size: 18px
 }
 #aboutme {
   font-family: monospace;
@@ -15,14 +16,23 @@
 }
 #dislikes{
   font-family: monospace;
+  font-size: 18px
 }
 #list2{
   font-family: monospace;
 }
 #links{
   font-family: monospace;
+  font-size: 18px
 }
 #photo{
   width: 60px
   height: 60px
+}
+#linklist{
+  font-family: monospace;
+}
+#photo2{
+  font-family: monospace;
+  font-size: 18px
 }
